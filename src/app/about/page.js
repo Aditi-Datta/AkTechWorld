@@ -1,5 +1,7 @@
+import AboutBanner from "../Components/AboutUs/AboutBanner";
+
 export default function About() {
     return (
-        <h1>Welcome About Page!!</h1>
+        <AboutBanner></AboutBanner>
     );
 };

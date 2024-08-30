@@ -1,0 +1,123 @@
+.NavbarBackground {
+  background-color: #fafafb;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  padding: 10px 20px;
+  z-index: 1000;
+}
+.FooterBackground {
+  background-color: #fafafb;
+}
+
+.bodyBackground {
+  background-color: #ffffff;
+}
+
+.overviewText {
+  color: #ec1c22;
+  text-transform: uppercase;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.serviceNameText {
+  color: #ec1c22;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  padding-bottom: 2%;
+  font-size: larger;
+}
+.homeServiceh1{
+  color: #ec1c22;
+  text-transform: uppercase;
+  padding-bottom: 5%;
+  padding-top: 2%;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.footerColor{
+  color: #ec1c22 ;
+  font-weight: bold;
+  padding-bottom: 5%;
+}
+
+.footerColor :hover{
+  color: black;
+}
+
+.footerText :hover{
+  color: #ec1c22;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.navtext{
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+.navtext :hover{
+  color: #ec1c22;
+  font-weight: bold;
+}
+
+.textColorContact{
+  font-weight: 700;
+ 
+  /* color: #ec1c22; */
+}
+
+.textColorContact:hover{
+  color:#ec1c22 ;
+  font-weight: bold;
+}
+
+.anyQuDesign {
+  font-weight: bold;
+}
+
+.discoverbtn {
+  border: none;
+  border-radius: 30px;
+  background-color: #ec1c22;
+  color: white;
+  padding: 8px 15px;
+}
+
+.discoverbtn:hover{
+  background-color: black;
+}
+
+.address{
+  padding-left: 3%;
+  font-size:14px ;
+  font-weight:bold ;
+
+}
+
+.fontFamilyStyle{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-weight: 500;
+  font-size: larger;
+}
+
+.emailUs {
+  color: #ec1c22;
+}
+
+.serviceCompoImage {
+  border-radius: 50px;
+  height: 300px;
+}
+
+.serviceMiniPoint{
+  color: #1b1818c3;
+  font-weight: 500;
+  font-size: large;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.serviceInnerText{
+  color: black;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
