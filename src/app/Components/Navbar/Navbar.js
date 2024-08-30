@@ -15,7 +15,10 @@ const Navbar = () => {
                 </a>
               </div>
             </div>
+  
 
+
+            
             <div className={styles.navtext}>
               <div className="hidden md:block ">
                 <div className="ml-4 flex items-center space-x-4">

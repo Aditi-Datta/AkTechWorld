@@ -405,22 +405,25 @@ function ServicesComponent() {
             <h2 className={styles.serviceNameText}>Data Services</h2>
             <div className={styles.serviceInnerText}>
               <p>
-              <small className={styles.serviceMiniPoint}> Web Hosting:  </small> Choosing a reliable web hosting service is
-                essential for ensuring that the website is accessible, fast, and
-                able to handle traffic efficiently. Hosting options include
-                shared, VPS, dedicated servers, and cloud hosting.
+              <small className={styles.serviceMiniPoint}>Data Integration: </small> Seamlessly connecting disparate data sources to create a unified data view.
               </p>
+               
               <p>
-              <small className={styles.serviceMiniPoint}> Content Management System (CMS):  </small> Implementing a CMS like
-                WordPress, Joomla, or Drupal allows for easy content updates and
-                management without requiring extensive technical knowledge.
+              <small className={styles.serviceMiniPoint}> Data Quality Management:  </small>  Ensuring data accuracy, consistency, and reliability across systems.
               </p>
+              
               <p>
-              <small className={styles.serviceMiniPoint}> Security Solutions:  </small> IT solutions include implementing firewalls,
-                SSL certificates, malware protection, and regular security
-                audits to protect the website from cyber threats and data
-                breaches.
+              <small className={styles.serviceMiniPoint}> Data Governance: </small>Establishing policies and processes to manage data effectively and securely.
               </p>
+              
+              <p>
+              <small className={styles.serviceMiniPoint}>Data Security: </small>Implementing robust measures to protect sensitive data from unauthorized access and breaches.
+              </p>
+              
+              <p>
+              <small className={styles.serviceMiniPoint}>Data Analytics:  </small>Leveraging data insights for informed decision-making and strategic planning.
+              </p>
+              
             </div>
           </div>
         </div>

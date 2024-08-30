@@ -54,7 +54,7 @@ function Service() {
 
               <div className="card-body items-center text-center text-black">
                 <h2 className="card-title">Machine Learning</h2>
-                <p>If a dog chews shoes whose shoes does he choose?</p>
+                <p>Apply machine learning (ML) to business problems we provides the ML solutions.</p>
                 <div className="card-actions">
                   <a href="/services">
                   <button className={styles.discoverbtn}>
@@ -78,7 +78,8 @@ function Service() {
 
               <div className="card-body items-center text-center text-black">
                 <h2 className="card-title">Natural Language Processing</h2>
-                <p>If a dog chews shoes whose shoes does he choose?</p>
+                <p>We enhances search engines on websites by understanding user
+                intent.</p>
                 <div className="card-actions">
                 <a href="/services">
                 <button className={styles.discoverbtn}>
@@ -103,7 +104,7 @@ function Service() {
 
               <div className="card-body items-center text-center text-black">
                 <h2 className="card-title">Artificial Intelligence</h2>
-                <p>If a dog chews shoes whose shoes does he choose?</p>
+                <p>We are helping businesses to automate processes and prioritize routine decision making through advanced algorithms.</p>
                 <div className="card-actions">
                 <a href="/services">
                 <button className={styles.discoverbtn}>
@@ -126,7 +127,8 @@ function Service() {
               </figure>
               <div className="card-body items-center text-center text-black">
                 <h2 className="card-title">Web Design</h2>
-                <p>If a dog chews shoes whose shoes does he choose?</p>
+                <p>We ensure the website is accessible and user-friendly across
+                various devices, including desktops, tablets, and smartphones,</p>
                 <div className="card-actions">
                 <a href="/services">
                 <button className={styles.discoverbtn}>
@@ -150,7 +152,8 @@ function Service() {
 
               <div className="card-body items-center text-center text-black">
                 <h2 className="card-title">Web Development</h2>
-                <p>If a dog chews shoes whose shoes does he choose?</p>
+                <p>Our Full-stack developers manage both front-end and back-end
+                development, ensuring seamless integration.</p>
                 <div className="card-actions">
                 <a href="/services">
                 <button className={styles.discoverbtn}>
@@ -173,7 +176,8 @@ function Service() {
               </figure>
               <div className="card-body items-center text-center text-black">
                 <h2 className="card-title">Graphics Design</h2>
-                <p>If a dog chews shoes whose shoes does he choose?</p>
+                <p>Creating custom graphics such as icons, illustrations, and
+                banners adds uniqueness to the website.</p>
                 <div className="card-actions">
                 <a href="/services">
                 <button className={styles.discoverbtn}>
@@ -196,7 +200,8 @@ function Service() {
               </figure>
               <div className="card-body items-center text-center text-black">
                 <h2 className="card-title">IT Solutions</h2>
-                <p>If a dog chews shoes whose shoes does he choose?</p>
+                <p>Choosing a reliable web hosting service is
+                essential for ensuring that the website is accessible, fast,</p>
                 <div className="card-actions">
                 <a href="/services">
                 <button className={styles.discoverbtn}>
@@ -219,7 +224,8 @@ function Service() {
               </figure>
               <div className="card-body items-center text-center text-black">
                 <h2 className="card-title">Data Services</h2>
-                <p>If a dog chews shoes whose shoes does he choose?</p>
+                <p>Efficient handling of data using databases like MySQL, MongoDB,
+                or PostgreSQL is crucial for storing and retrieving data.</p>
                 <div className="card-actions">
                 <a href="/services">
                 <button className={styles.discoverbtn}>

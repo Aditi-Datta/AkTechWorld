@@ -2,6 +2,16 @@
 @tailwind components;
 @tailwind utilities;
 
+/* body {
+  padding-top: 84px; 
+} */
+
 body {
-  padding-top: 84px; /* Adjust this value based on the height of your navbar */
+  margin: 0;
+  padding: 0;
+  padding-top: 84px;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  color: #333;
 }
