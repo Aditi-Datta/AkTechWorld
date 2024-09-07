@@ -44,7 +44,7 @@ function ContactUs() {
             </div>
           </div>
           <div className={styles.contactSubmit}>
-            <button class="btn rounded-full  bg-red-500 text-white w-96  ">
+            <button className = "btn rounded-full  bg-red-500 text-white w-96  ">
               Submit
             </button>
           </div>

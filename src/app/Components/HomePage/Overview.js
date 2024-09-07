@@ -14,7 +14,8 @@ function Overview() {
           </h1>
         </div>
 
-        <p className="py-6 text-black">
+       <div className="2xl:mx-16 py-8 ">
+       <p className="py-6 text-black">
           Ak Tech World has started its journey in 2024 to provide information
           technology solutions for small to medium-sized businesses. The team at
           Ak Tech Worldl is equipped with a highly developed skillset not only
@@ -41,6 +42,7 @@ function Overview() {
             Learn More About Us <FontAwesomeIcon icon="fa-solid fa-arrow-right" />
           </button>
         </a>
+       </div>
       </div>
     </>
   );

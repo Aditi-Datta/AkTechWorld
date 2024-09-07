@@ -7,16 +7,18 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 function ITSolution() {
   return (
     <>
-      <div className=" py-16 flex justify-evenly ">
-      <div>
-      <Image src={c1} className="max-w-sm  rounded-lg shadow-2xl" />
-      </div>
-        <div className=" flex-col lg:flex-row content-center">
+      <div className=" py-16 flex justify-evenly 2xl:flex justify-center ">
+     <div className="2xl: w-1/2 content-center"> 
+     <Image src={c1} className=" rounded-lg shadow-2xl" />
+     </div>
+      
+      
+        <div className="  flex-col lg:flex-row content-center  ">
           <div className=" w-full max-w-sm ">
             <h1 className="text-4xl font-bold text-black">
               Preparing For Your Business Provide Best IT Solution!
             </h1>
-            <p className="py-6 text-primary-content">
+            <p className="py-6 ">
               Quickly re-engineer intuitive e-services whereas compelling
               niches. Professionally syndicate strategic e-commerce without
               covalent leadership skills. Globally customize equity invested

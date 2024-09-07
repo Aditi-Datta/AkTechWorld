@@ -33,7 +33,7 @@ function ServicesComponent() {
         </div>
 
         <div className="card lg:card-side pt-16  px-8 content-center">
-          <div className="  ">
+          <div >
             <h2 className={styles.serviceNameText}>Cyber Security</h2>
             <div className={styles.serviceInnerText}>
               <p>
@@ -121,7 +121,7 @@ function ServicesComponent() {
         </div>
 
         <div className="card lg:card-side pt-16  px-8 content-center">
-          <div className=" ">
+          <div >
             <h2 className={styles.serviceNameText}>
               Natural Language Processing
             </h2>
@@ -214,7 +214,7 @@ function ServicesComponent() {
           </figure>
         </div>
         <div className="card lg:card-side pt-16 pb-16 px-8 content-center">
-          <div className=" ">
+          <div >
             <h2 className={styles.serviceNameText}>Web Design</h2>
             <div className={styles.serviceInnerText}>
               <p>
@@ -308,7 +308,7 @@ function ServicesComponent() {
           </figure>
         </div>
         <div className="card lg:card-side pt-16 pb-16 px-8 content-center">
-          <div className=" ">
+          <div >
             <h2 className={styles.serviceNameText}>Graphics Design</h2>
             <div className={styles.serviceInnerText}>
               <p>
@@ -401,7 +401,7 @@ function ServicesComponent() {
           </figure>
         </div>
         <div className="card lg:card-side pt-16 pb-16 px-8 content-center">
-          <div className=" ">
+          <div >
             <h2 className={styles.serviceNameText}>Data Services</h2>
             <div className={styles.serviceInnerText}>
               <p>

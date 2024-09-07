@@ -5,8 +5,9 @@ import styles from "../../styles/CustomColors.module.css";
 function Service() {
   return (
     <>
+      <div className="2xl:flex justify-evenly">
       <div className={styles.serviceBodyBack}>
-        <div className="min-h-screen pt-16">
+        <div className=" min-h-screen pt-16 ">
           <div className={styles.homeServiceh1}>
             <h1 className="text-4xl font-bold text-center ">
               Our Business <span className="text-black py-6">Segments</span>
@@ -15,8 +16,8 @@ function Service() {
 
           <div className="grid grid-cols-3 gap-4  ">
          <div className={styles.homeServiceCardBack}>
-         <div className="card  w-96 shadow-2xl  ">
-         <figure className="px-10 pt-10 ">
+         <div className="card w-96 shadow-2xl">
+         <figure className="px-10 pt-10">
            <svg
              width={80}
              height={100}
@@ -40,8 +41,8 @@ function Service() {
        </div>
          </div>
 
-            <div className="card  w-96 shadow-2xl">
-              <figure className="px-10 pt-10 ">
+            <div className="card w-96 shadow-2xl">
+              <figure className="px-10 pt-10">
                 <svg
                   width={80}
                   height={100}
@@ -237,6 +238,7 @@ function Service() {
             </div>
           </div>
         </div>
+      </div>
       </div>
     </>
   );

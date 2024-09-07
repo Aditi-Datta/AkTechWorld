@@ -5,7 +5,7 @@ function Banner() {
   return (
     <>
       <div className=" min-h-screen">
-        <Image src={backgroundImage} />
+        <Image className="w-full" src={backgroundImage} />
       </div>
     </>
   );

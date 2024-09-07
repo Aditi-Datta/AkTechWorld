@@ -5,7 +5,7 @@ import Image from "next/image";
 function AboutBanner() {
   return (
     <>
-      <div className="bg-white pb-16">
+      <div className="container-fluid bg-white pb-16">
         <div className={styles.homeServiceh1}>
           <h1 className="text-4xl font-bold text-center pt-5">
             About <span className="text-black py-6">US</span>
@@ -26,9 +26,11 @@ function AboutBanner() {
             </p>
           </div>
         </div>
-        <div className="grid grid-cols-2 gap-4 pb-16">
+
+        <div className="flex gap-4 pb-16">
+          <div className="w-1/2">
           <div className={styles.fontFamilyStyle}>
-            <div className="card lg:card-side   px-8">
+            <div className="card lg:card-side px-8">
               <div className=" text-black content-center">
                 <br />
                 <p>
@@ -38,7 +40,7 @@ function AboutBanner() {
                   software and web development, software and web application
                   testing, and enterprise architecture consulting.
                 </p>
-
+                
                 
                 <p>
                   Our team consistently delivers state-of-the-art solutions in
@@ -55,8 +57,8 @@ function AboutBanner() {
               </div>
             </div>
           </div>
-
-          <div className="px-8 mt-8">
+          </div>
+          <div className="w-1/2 px-8 mt-8">
             <figure>
               <Image src={info} alt="logo img" />
             </figure>
