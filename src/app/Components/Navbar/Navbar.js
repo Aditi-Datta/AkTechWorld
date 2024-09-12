@@ -42,6 +42,12 @@ const Navbar = () => {
                     Services
                   </a>
                   <a
+                    href="/team"
+                    className="text-black hover:bg-white hover:text-black rounded-lg"
+                  >
+                    Team
+                  </a>
+                  <a
                     href="/contact"
                     className="text-black hover:bg-white hover:text-black rounded-lg"
                   >

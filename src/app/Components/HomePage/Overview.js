@@ -1,7 +1,5 @@
 import React from "react";
 import styles from "../../styles/CustomColors.module.css";
-import Image from "next/image";
-import info from "@/../public/infom.png";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 function Overview() {
