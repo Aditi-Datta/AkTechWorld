@@ -1,6 +1,6 @@
 import Image from 'next/image'
-import team1 from "@/../public/team1.jpeg";
-import team2 from "@/../public/team2new.png";
+import team1 from "@/../public/002.jpeg";
+import team2 from "@/../public/001.jpeg";
 import styles from "../../styles/CustomColors.module.css";
 
 // const teamMembers = [
@@ -37,13 +37,14 @@ const TeamMember = () => {
               <figure>
                 <Image
                   src={team1}
-                  alt=''
+                  alt='Amanda Reahana Gome'
+                
                   // width={80}
                   // height={100}
                   // width={300}
                   // height={300}
                   // className="w-full h-48 object-cover"
-                  className="h-full object-cover"
+                  className=" object-cover"
                 />
               </figure>
               <div className="p-4 text-center">
@@ -57,11 +58,11 @@ const TeamMember = () => {
               <figure>
                 <Image
                   src={team2}
-                  alt=''
+                  alt='Mirza Sanjida'
                   // width={300}
                   // height={300}
                   // className="w-full h-48 object-cover"
-                  className=" h-full object-cover"
+                  className="  object-cover"
                 />
               </figure>
               <div className="p-4 text-center">
